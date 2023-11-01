@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://boznotfound.github.io/sitemap.xml
