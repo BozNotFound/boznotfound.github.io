@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Blowfish</title>
+    <title>Posts on (･∀･)ﾉﾞ嗨，在这里</title>
     <link>https://your_domain.com/post/</link>
-    <description>Recent content in Posts on Blowfish</description>
+    <description>Recent content in Posts on (･∀･)ﾉﾞ嗨，在这里</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-cn</language>
     <copyright>© 2023 Boz</copyright>
-    <lastBuildDate>Wed, 01 Nov 2023 15:36:03 +0800</lastBuildDate><atom:link href="https://your_domain.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Nov 2023 15:26:14 +0800</lastBuildDate><atom:link href="https://your_domain.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ablog</title>
-      <link>https://your_domain.com/post/ablog/</link>
-      <pubDate>Wed, 01 Nov 2023 15:36:03 +0800</pubDate>
-      
-      <guid>https://your_domain.com/post/ablog/</guid>
-      <description>写在前面 # 笔者对于Golang可以说是真正的零基础，不过好在之前学过C++,有些东西倒也是共通的，这篇以及之后的笔记就当作自己的一个记录，也可以算是和大家的一些分享 : )</description>
-      
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>https://your_domain.com/post/blog/</link>
+      <title>Golang基础笔记(1)</title>
+      <link>https://your_domain.com/post/%E5%8F%B2/</link>
       <pubDate>Wed, 01 Nov 2023 15:26:14 +0800</pubDate>
       
-      <guid>https://your_domain.com/post/blog/</guid>
+      <guid>https://your_domain.com/post/%E5%8F%B2/</guid>
       <description>写在前面 # 笔者对于Golang可以说是真正的零基础，不过好在之前学过C++,有些东西倒也是共通的，这篇以及之后的笔记就当作自己的一个记录，也可以算是和大家的一些分享 : )</description>
       
     </item>

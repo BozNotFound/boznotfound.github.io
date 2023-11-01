@@ -1,29 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <url>
-    <loc>https://your_domain.com/post/ablog/</loc>
-    <lastmod>2023-11-01T15:36:03+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://your_domain.com/</loc>
-    <lastmod>2023-11-01T15:36:03+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://your_domain.com/post/</loc>
-    <lastmod>2023-11-01T15:36:03+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://your_domain.com/post/blog/</loc>
-    <lastmod>2023-11-01T15:26:14+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://your_domain.com/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://your_domain.com/zh-cn/sitemap.xml</loc>
+    
+      <lastmod>2023-11-01T15:26:14+08:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
