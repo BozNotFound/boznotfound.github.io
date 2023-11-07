@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://your_domain.com/post/</loc>
+    <lastmod>2023-11-07T14:55:26+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://your_domain.com/</loc>
-    <lastmod>2023-11-01T15:26:14+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,17 +22,5 @@
       hreflang="zh-cn"
       href="https://your_domain.com/"
     />
-  </url>
-  <url>
-    <loc>https://your_domain.com/post/%E5%8F%B2/</loc>
-    <lastmod>2023-11-01T15:26:14+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://your_domain.com/post/</loc>
-    <lastmod>2023-11-01T15:26:14+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
