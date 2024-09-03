@@ -4,13 +4,19 @@
 
   <url>
     <loc>https://your_domain.com/</loc>
-    <lastmod>2023-11-07T15:53:52+08:00</lastmod>
+    <lastmod>2024-04-08T15:13:20+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://your_domain.com/post/leetcode_climbstairs/</loc>
+    <lastmod>2024-04-08T15:13:20+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://your_domain.com/post/</loc>
-    <lastmod>2023-11-07T15:53:52+08:00</lastmod>
+    <lastmod>2024-04-08T15:13:20+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
