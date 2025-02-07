@@ -3,25 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://your_domain.com/</loc>
+    <loc>https://boznotfound.github.io/</loc>
+    <lastmod>2024-09-03T21:28:36+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://boznotfound.github.io/post/leetcode_delete-and-earn/</loc>
+    <lastmod>2024-09-03T21:28:36+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://boznotfound.github.io/post/</loc>
+    <lastmod>2024-09-03T21:28:36+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://boznotfound.github.io/post/leetcode_climbstairs/</loc>
     <lastmod>2024-04-08T15:13:20+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://your_domain.com/post/leetcode_climbstairs/</loc>
-    <lastmod>2024-04-08T15:13:20+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://your_domain.com/post/</loc>
-    <lastmod>2024-04-08T15:13:20+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://your_domain.com/post/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://boznotfound.github.io/post/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2023-11-07T15:53:52+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

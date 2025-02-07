@@ -15,7 +15,7 @@
   
   
   
-  <link rel="canonical" href="https://your_domain.com/404.html" />
+  <link rel="canonical" href="https://boznotfound.github.io/404.html" />
   
   
   
@@ -64,7 +64,7 @@
   <meta property="og:title" content="404 Page not found" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://your_domain.com/404.html" />
+<meta property="og:url" content="https://boznotfound.github.io/404.html" />
 
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="404 Page not found"/>
@@ -110,6 +110,29 @@
   
   
   <meta name="theme-color"/>
+  
+  
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyDmlp5WjUFi7Xaaad0Lhw_NM-8cMV07nO4",
+      authDomain: "AIzaSyDmlp5WjUFi7Xaaad0Lhw_NM-8cMV07nO4",
+      projectId: "myblog-32424",
+      storageBucket: "myblog-32424.firebasestorage.app",
+      messagingSenderId: "721133264997",
+      appId: "1:721133264997:web:7ee137c98569d82b67668c",
+      measurementId: "G-6F0TKLK115"
+    };
+
+    var app = firebase.initializeApp(firebaseConfig);
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+
+  </script>
   
   
 </head>
@@ -439,7 +462,7 @@
     
     <p class="text-sm text-neutral-500 dark:text-neutral-400">
       &copy;
-      2024
+      2025
       Boz
     </p>
     
@@ -479,7 +502,7 @@
   <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="https://your_domain.com/"
+  data-url="https://boznotfound.github.io/"
   style="z-index:500"
 >
   <div
